@@ -6,4 +6,4 @@ as
 (
 select * from sam1 where id between 5 and 19
 )
-select * from sam1cte
+select * from sam3cte
